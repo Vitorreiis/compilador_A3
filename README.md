@@ -1,5 +1,7 @@
 # Autor: Vitor Reis dos Santos - 12722124265
 
+# Link video da demonstração no Youtube: https://youtu.be/HehFtxIrUQ0
+
 # Compilador em Python 3.6
 
 Este projeto é parte de uma atividade acadêmica que tinha como objetivo principal desenvolver um compilador em uma linguagem para gerar um código em C.
